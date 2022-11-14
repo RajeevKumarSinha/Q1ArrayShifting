@@ -1,0 +1,23 @@
+body{
+    background-color: #cdf7fd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.question-container{
+    background-color: rgb(194, 255, 235);
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+}
+.execute{
+    font-size: larger;
+    background-color:#cdf7fd;
+    padding: 5px 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.execute:hover{
+    cursor: pointer;
+    background-color: black;
+    border-color: rgb(255, 0, 0);
+    color: white;
+}
